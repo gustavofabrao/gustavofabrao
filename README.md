@@ -42,20 +42,12 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/gustavofabrao/gustavofabrao">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moganxumerle&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofabrao&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
 </a>
 <a href="https://github.com/gustavofabrao/gustavofabrao">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=moganxumerle&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Gustavo's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavofabrao&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Gustavo's GitHub Stats" />
 </a>
+
 ---
 
-### ⚡ Technologies Stats</b></summary>
-
-<div id="statistics_contributions_block_id" align="center" style="align-content: center; text-align:center;">
- <a href="https://profile.codersrank.io/user/gustavofabrao" target="_blank">
- <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=leandrocgsi&heigth=300" alt="CodersRank skills chart" />
- </a>
-</div>
----
-
-<img align='center' src="https://miro.medium.com/max/400/0*VV3Nmxgv3KX4sLhr.gif" width="230">
+<img align='center' src="https://miro.medium.com/max/400/0*VV3Nmxgv3KX4sLhr.gif" width="400">
