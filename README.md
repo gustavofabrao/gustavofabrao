@@ -51,4 +51,4 @@
 
 ---
 
-<img alt="" class="ce in io c" src="https://miro.medium.com/max/800/0*VV3Nmxgv3KX4sLhr.gif" width="400" srcset="https://miro.medium.com/max/300/0*VV3Nmxgv3KX4sLhr.gif 300w, https://miro.medium.com/max/320/0*VV3Nmxgv3KX4sLhr.gif 320w, https://miro.medium.com/max/360/0*VV3Nmxgv3KX4sLhr.gif 360w, https://miro.medium.com/max/375/0*VV3Nmxgv3KX4sLhr.gif 375w, https://miro.medium.com/max/393/0*VV3Nmxgv3KX4sLhr.gif 393w, https://miro.medium.com/max/414/0*VV3Nmxgv3KX4sLhr.gif 414w, https://miro.medium.com/max/400/0*VV3Nmxgv3KX4sLhr.gif 400w" sizes="(max-width: 700px) 100vw, 400px" loading="lazy" role="presentation">
+<img style="text-align:center" src="https://miro.medium.com/max/400/0*VV3Nmxgv3KX4sLhr.gif" width="400">
