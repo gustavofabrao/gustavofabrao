@@ -51,4 +51,4 @@
 ---
 <br/>
 
-<img src="https://miro.medium.com/max/400/0*VV3Nmxgv3KX4sLhr.gif" height="500" width="800">
+<img src="https://miro.medium.com/max/400/0*VV3Nmxgv3KX4sLhr.gif" height="300" width="750">
