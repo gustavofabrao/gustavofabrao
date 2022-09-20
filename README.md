@@ -50,4 +50,5 @@
 
 ---
 <br/>
-<p style="text-align:center"><img src="https://miro.medium.com/max/400/0*VV3Nmxgv3KX4sLhr.gif" width="400"></p>
+
+<img align='right' src="https://miro.medium.com/max/400/0*VV3Nmxgv3KX4sLhr.gif" width="400">
