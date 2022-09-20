@@ -9,7 +9,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/gustavofabrao?label=Follow&style=social)
 <a>![visitor badge](https://visitor-badge.glitch.me/badge?page_id=gustavofabrao.visitor-badge)</a>
 
----
+--- 
 ## 🚀💻 Technologies & Tools
 <code><img height="40" src="./img/cSharp.svg" alt="C#" title="C#"></code>
 <code><img height="40" src="./img/dotnetcore.svg" alt="dotnetcore" title=".NET Core"></code>
