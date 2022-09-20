@@ -2,13 +2,12 @@
 
 # [Gustavo Abrão](https://www.linkedin.com/in/gustavoabrao) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-<p> Contacts: </p> 
+<p><em> Contacts: </em></p> 
 
 [![Linkedin Badge](https://img.shields.io/badge/-gustavoabrao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavoabrao/)](https://www.linkedin.com/in/gustavoabrao/)
 [![Gmail Badge](https://img.shields.io/badge/-gfabrao@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gfabrao@gmail.com)](mailto:gfabrao@gmail.com)
+<a href="https://hub.docker.com/u/gustavofabrao/"><img src="https://img.shields.io/badge/DockerHub-gustavofabrao-blue"/></a> 
 [![GitHub followers](https://img.shields.io/github/followers/gustavofabrao.svg?style=social&label=Follow)](https://github.com/gustavofabrao?tab=followers)
-<a href="https://hub.docker.com/u/gustavofabrao/"><img src="https://img.shields.io/badge/DockerHub-gustavofabrao-blue"/></a>
-<a>![visitor badge](https://visitor-badge.glitch.me/badge?page_id=gustavofabrao.visitor-badge)</a>
 --- 
 ## 🚀💻 Technologies & Tools
 <code><img height="40" src="./img/cSharp.svg" alt="C#" title="C#"></code>
@@ -50,6 +49,4 @@
 
 ---
 
-<div style="text-align:center">
-	<img src="https://miro.medium.com/max/400/0*VV3Nmxgv3KX4sLhr.gif" width="400">
-</div>
+<div style="text-align:center"><p><img src="https://miro.medium.com/max/400/0*VV3Nmxgv3KX4sLhr.gif" width="400"></p></div>
