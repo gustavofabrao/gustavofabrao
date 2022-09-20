@@ -1,6 +1,6 @@
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130">
-
 # [Gustavo Abrão](https://www.linkedin.com/in/gustavoabrao) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130">
 
 <p><em> Contacts: </em></p> 
 
@@ -8,6 +8,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-gfabrao@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gfabrao@gmail.com)](mailto:gfabrao@gmail.com)
 <a href="https://hub.docker.com/u/gustavofabrao/"><img src="https://img.shields.io/badge/DockerHub-gustavofabrao-blue"/></a> 
 [![GitHub followers](https://img.shields.io/github/followers/gustavofabrao.svg?style=social&label=Follow)](https://github.com/gustavofabrao?tab=followers)
+
 --- 
 ## 🚀💻 Technologies & Tools
 <code><img height="40" src="./img/cSharp.svg" alt="C#" title="C#"></code>
@@ -48,5 +49,5 @@
 </a>
 
 ---
-
-<div style="text-align:center"><p><img src="https://miro.medium.com/max/400/0*VV3Nmxgv3KX4sLhr.gif" width="400"></p></div>
+<br/>
+<center><p><img src="https://miro.medium.com/max/400/0*VV3Nmxgv3KX4sLhr.gif" width="400"></p></center>
