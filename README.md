@@ -22,7 +22,6 @@
 <code><img height="40" src="./img/git-original.svg" alt="Git" title="Git"></code> 
 <code><img height="40" src="./img/javascript.svg" alt="Javascript" title="Javascript"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" alt="React" title="React"></code>
-<img height="40" src="https://raw.githubusercontent.com/leandrocgsi/leandrocgsi/main/svg_logos/angularjs-original.svg" title="Angular JS" alt="Angular JS" />
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/yaml/yaml.png" alt="Yaml" title="Yaml"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" alt="Docker" title="Docker"></code>
 <code><img height="40" src="./img/rabbitmq.png" alt="RabbitMQ" title="RabbitMQ"></code> 
